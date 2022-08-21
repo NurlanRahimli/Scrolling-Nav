@@ -1,0 +1,30 @@
+.fs-20{font-size: 20px;}
+.fw-900{font-weight: 900;}
+.fw-300{font-weight: 300;}
+
+
+.color-9b9d9e{color: #9b9d9e;}
+.color-898b8d{color: #898b8d;}
+.bg-color-F8F9FA{background-color: #F8F9FA;}
+
+.hover1:hover{
+    color: whitesmoke;
+}
+.hover2:hover{
+    background-color: pink !important; 
+    transition: .7s;
+}
+
+/* padding */
+
+.pt-152{padding-top: 152px;}
+.pb-96{padding-bottom: 96px;}
+.py-144{
+    padding-top: 144px;
+    padding-bottom: 144px;
+}
+
+
+/* padding-end */
+
+
